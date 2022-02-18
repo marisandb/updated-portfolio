@@ -1,0 +1,14 @@
+table, td{
+    width: 25%;
+}
+
+tr{
+    margin: 10%;
+}
+td{
+    font-size: larger;
+    margin: 10%;
+    border: 2px solid black;
+
+
+}

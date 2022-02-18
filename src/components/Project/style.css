@@ -1,0 +1,14 @@
+.project {
+    display: flex;
+}
+
+.project-bg{
+    width: 25%;
+    height: auto;
+    padding: 5%;
+}
+
+.project-name{
+    font-size: large;
+    color: var(--primary);
+}
