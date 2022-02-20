@@ -1,0 +1,45 @@
+nav {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    color: var(--light);
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  
+  nav a:hover {
+    text-decoration: none;
+  }
+  .nav-name{
+      padding-right: 1%;
+  }
+  
+  .navActive {
+    color: var(--secondary);
+    cursor: default;
+    text-shadow: 3px 3px 15px rgba(255,255,255, .5);
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    nav {
+      position: static;
+      display: block;
+      z-index: 100;
+      margin: 0 10px;
+      font-size: 2rem;
+      color: black;
+  
+    } 
+  }
+  @media only screen and (max-width: 900px) {
+    nav {
+      position: static;
+      display: block;
+      z-index: 100;
+      margin: 0 10px;
+      font-size: 1.3rem;
+      color: black;
+  
+    }
+   
+  }

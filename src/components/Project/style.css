@@ -19,3 +19,12 @@
 .project-text{
     width: 75%;
 }
+
+@media only screen and (max-width: 1300px) {
+    .project-bg {
+        display: none;
+    }
+    .project-text, .project-name{
+        margin-left: 5%;
+    }
+}
