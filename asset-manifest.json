@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5ae1c196.css",
-    "main.js": "/portfolio/static/js/main.60cb989b.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Book Search Engine.png": "/portfolio/static/media/Book Search Engine.fa99ec91fcbd05bfafa1.png",
-    "static/media/Chef's Kiss Daily Food Blog.png": "/portfolio/static/media/Chef's Kiss Daily Food Blog.18d803fbeeb348d39166.png",
-    "static/media/Zookeepr.png": "/portfolio/static/media/Zookeepr.ad72e029372f8e1c2f42.png",
-    "static/media/My Mood Tracker.png": "/portfolio/static/media/My Mood Tracker.740159c90dddd0b86e6b.png",
-    "static/media/me.jpg": "/portfolio/static/media/me.fff80c1f898dd009c15b.jpg",
-    "static/media/hero.png": "/portfolio/static/media/hero.7fe2f7e41eaf0367861c.png",
-    "static/media/Coding Quiz.png": "/portfolio/static/media/Coding Quiz.5c84fbe69bbc8ff8f3c1.png",
-    "index.html": "/portfolio/index.html",
-    "main.5ae1c196.css.map": "/portfolio/static/css/main.5ae1c196.css.map",
-    "main.60cb989b.js.map": "/portfolio/static/js/main.60cb989b.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/updated-portfolio/static/css/main.5ae1c196.css",
+    "main.js": "/updated-portfolio/static/js/main.338c52c4.js",
+    "static/js/787.d47a0f03.chunk.js": "/updated-portfolio/static/js/787.d47a0f03.chunk.js",
+    "static/media/Book Search Engine.png": "/updated-portfolio/static/media/Book Search Engine.fa99ec91fcbd05bfafa1.png",
+    "static/media/Chef's Kiss Daily Food Blog.png": "/updated-portfolio/static/media/Chef's Kiss Daily Food Blog.18d803fbeeb348d39166.png",
+    "static/media/Zookeepr.png": "/updated-portfolio/static/media/Zookeepr.ad72e029372f8e1c2f42.png",
+    "static/media/My Mood Tracker.png": "/updated-portfolio/static/media/My Mood Tracker.740159c90dddd0b86e6b.png",
+    "static/media/me.jpg": "/updated-portfolio/static/media/me.fff80c1f898dd009c15b.jpg",
+    "static/media/hero.png": "/updated-portfolio/static/media/hero.7fe2f7e41eaf0367861c.png",
+    "static/media/Coding Quiz.png": "/updated-portfolio/static/media/Coding Quiz.5c84fbe69bbc8ff8f3c1.png",
+    "index.html": "/updated-portfolio/index.html",
+    "main.5ae1c196.css.map": "/updated-portfolio/static/css/main.5ae1c196.css.map",
+    "main.338c52c4.js.map": "/updated-portfolio/static/js/main.338c52c4.js.map",
+    "787.d47a0f03.chunk.js.map": "/updated-portfolio/static/js/787.d47a0f03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ae1c196.css",
-    "static/js/main.60cb989b.js"
+    "static/js/main.338c52c4.js"
   ]
 }
