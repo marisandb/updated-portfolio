@@ -134,3 +134,9 @@ nav a:hover {
   font-size: large;
   
 }
+
+/* Footer */
+footer{
+  text-align: center;
+  color: var(--primary);
+}
