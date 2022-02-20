@@ -14,15 +14,18 @@ function Project({ project }) {
         alt={removeHyphensAndCapitalize(name)}
         className="project-bg"
       />
-      <div className="project-text">
+      <div>
         <h3>
           <a href={link} className="project-name">{removeHyphensAndCapitalize(name)}</a>{' '}
           <a href={repo}>
             <i><AiFillGithub /></i>
           </a>
         </h3>
-        <p>{concept}</p>
-        <p>{technologies}</p>
+        <div className='project-text'>
+          <p>{concept}</p>
+          <h4>Technologies:</h4>
+          <p>{technologies}</p>
+        </div>
       </div>
     </div>
   );

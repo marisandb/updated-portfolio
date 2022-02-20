@@ -5,10 +5,17 @@
 .project-bg{
     width: 25%;
     height: auto;
-    padding: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    border: 3px solid black;
 }
 
 .project-name{
     font-size: large;
     color: var(--primary);
+}
+
+.project-text{
+    width: 75%;
 }
